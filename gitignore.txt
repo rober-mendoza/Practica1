@@ -1,0 +1,1 @@
+Si se crea una archivollamado .gitignore sirve para indicar que ficheros no se guardan en el repo al hacer un commit
